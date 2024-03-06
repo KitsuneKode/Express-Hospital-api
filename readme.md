@@ -1,7 +1,7 @@
 
 ![Express Kidney Hospital API](./Pictures/Homepage.png)
 
-You can explore more pictures in the `Pictures` directory.
+You can explore more pictures in the [Pictures](./Pictures) directory.
 
 Author: [KitsuneKode](https://github.com/KitsuneKode)
 
