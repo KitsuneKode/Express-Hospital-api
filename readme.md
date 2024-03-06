@@ -89,62 +89,6 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or need further assistance, please feel free to contact the project maintainer at [](bhuyanmanash2002@gmail.com).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Kidney Health Check API
-
-![Project Screen](file:///path/to/your/folder/project-screen.jpg)
-
-## Project Description
-
-This is a simple Express.js application that provides a RESTful API for checking and managing kidney health status of users. It's a basic application that serves as a starting point for a more complex health management system.
-
-## Implementation
-
-The application is implemented using Node.js and Express.js. It uses an in-memory data structure to store user data. Each user has a name and an array of kidneys, each with a status of either "Healthy" or "Not Healthy".
-
-## Features
-
-1. `GET /`: Checks the number of kidneys a user has and their health status. The user's name should be provided as a query parameter, e.g., `/?name=John`.
-2. `POST /`: Adds a new kidney to a user. The status of the kidney should be provided in the request body as `addStatus`.
-3. `PUT /`: Replaces a user's unhealthy kidneys with healthy ones.
-4. `DELETE /`: Removes a user's unhealthy kidneys.
-
-## Getting Started
-
-To run the application, first install the dependencies with `npm install`. Then, start the server with `node app.js`. The server will start on port 4000.
-
-## Contribution
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-
-[KitsuneKode](https://github.com/KitsuneKode)
-
 ## Acknowledgments
 
 Thanks to all contributors and their valuable input.
